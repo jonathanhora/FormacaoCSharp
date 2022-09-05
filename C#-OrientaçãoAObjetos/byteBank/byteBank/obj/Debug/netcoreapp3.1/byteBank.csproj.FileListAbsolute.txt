@@ -1,0 +1,14 @@
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\bin\Debug\netcoreapp3.1\byteBank.exe
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\bin\Debug\netcoreapp3.1\byteBank.deps.json
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\bin\Debug\netcoreapp3.1\byteBank.runtimeconfig.json
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\bin\Debug\netcoreapp3.1\byteBank.runtimeconfig.dev.json
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\bin\Debug\netcoreapp3.1\byteBank.dll
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\bin\Debug\netcoreapp3.1\byteBank.pdb
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\obj\Debug\netcoreapp3.1\byteBank.csproj.AssemblyReference.cache
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\obj\Debug\netcoreapp3.1\byteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\obj\Debug\netcoreapp3.1\byteBank.AssemblyInfoInputs.cache
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\obj\Debug\netcoreapp3.1\byteBank.AssemblyInfo.cs
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\obj\Debug\netcoreapp3.1\byteBank.csproj.CoreCompileInputs.cache
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\obj\Debug\netcoreapp3.1\byteBank.dll
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\obj\Debug\netcoreapp3.1\byteBank.pdb
+C:\Estudos\C#-OrientaçãoAObjetos\byteBank\byteBank\obj\Debug\netcoreapp3.1\byteBank.genruntimeconfig.cache

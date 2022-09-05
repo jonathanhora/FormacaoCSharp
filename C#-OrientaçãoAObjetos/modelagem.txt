@@ -1,0 +1,3 @@
+Modelagem:
+Entender o que o cliente precisa.
+Quais informações são úteis para criar o projeto

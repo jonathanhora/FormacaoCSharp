@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\bin\Debug\net5.0\Exec05Banco.exe
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\bin\Debug\net5.0\Exec05Banco.deps.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\bin\Debug\net5.0\Exec05Banco.runtimeconfig.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\bin\Debug\net5.0\Exec05Banco.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\bin\Debug\net5.0\Exec05Banco.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\bin\Debug\net5.0\ref\Exec05Banco.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\bin\Debug\net5.0\Exec05Banco.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\Exec05Banco.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\Exec05Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\Exec05Banco.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\Exec05Banco.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\Exec05Banco.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\Exec05Banco.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\ref\Exec05Banco.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\Exec05Banco.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec05Banco\Exec05Banco\obj\Debug\net5.0\Exec05Banco.genruntimeconfig.cache

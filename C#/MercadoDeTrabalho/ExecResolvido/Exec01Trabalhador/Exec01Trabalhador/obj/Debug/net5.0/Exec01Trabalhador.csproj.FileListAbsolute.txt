@@ -1,0 +1,16 @@
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\bin\Debug\net5.0\Exec01Trabalhador.exe
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\bin\Debug\net5.0\Exec01Trabalhador.deps.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\bin\Debug\net5.0\Exec01Trabalhador.runtimeconfig.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\bin\Debug\net5.0\Exec01Trabalhador.runtimeconfig.dev.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\bin\Debug\net5.0\Exec01Trabalhador.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\bin\Debug\net5.0\ref\Exec01Trabalhador.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\bin\Debug\net5.0\Exec01Trabalhador.pdb
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\Exec01Trabalhador.csproj.AssemblyReference.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\Exec01Trabalhador.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\Exec01Trabalhador.AssemblyInfoInputs.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\Exec01Trabalhador.AssemblyInfo.cs
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\Exec01Trabalhador.csproj.CoreCompileInputs.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\Exec01Trabalhador.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\ref\Exec01Trabalhador.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\Exec01Trabalhador.pdb
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec01Trabalhador\Exec01Trabalhador\obj\Debug\net5.0\Exec01Trabalhador.genruntimeconfig.cache

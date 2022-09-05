@@ -1,0 +1,14 @@
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\bin\Debug\netcoreapp3.1\ByteBanck_ADM.exe
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\bin\Debug\netcoreapp3.1\ByteBanck_ADM.deps.json
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\bin\Debug\netcoreapp3.1\ByteBanck_ADM.runtimeconfig.json
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\bin\Debug\netcoreapp3.1\ByteBanck_ADM.runtimeconfig.dev.json
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\bin\Debug\netcoreapp3.1\ByteBanck_ADM.dll
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\bin\Debug\netcoreapp3.1\ByteBanck_ADM.pdb
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\obj\Debug\netcoreapp3.1\ByteBanck_ADM.csproj.AssemblyReference.cache
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\obj\Debug\netcoreapp3.1\ByteBanck_ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\obj\Debug\netcoreapp3.1\ByteBanck_ADM.AssemblyInfoInputs.cache
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\obj\Debug\netcoreapp3.1\ByteBanck_ADM.AssemblyInfo.cs
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\obj\Debug\netcoreapp3.1\ByteBanck_ADM.csproj.CoreCompileInputs.cache
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\obj\Debug\netcoreapp3.1\ByteBanck_ADM.dll
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\obj\Debug\netcoreapp3.1\ByteBanck_ADM.pdb
+C:\Estudos\C#-UsandoHerancaImplementandoInterfaces\ByteBanck_ADM\ByteBanck_ADM\obj\Debug\netcoreapp3.1\ByteBanck_ADM.genruntimeconfig.cache

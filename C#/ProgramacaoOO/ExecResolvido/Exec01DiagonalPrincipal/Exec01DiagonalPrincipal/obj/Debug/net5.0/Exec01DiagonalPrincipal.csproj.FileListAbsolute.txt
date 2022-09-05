@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\bin\Debug\net5.0\Exec01DiagonalPrincipal.exe
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\bin\Debug\net5.0\Exec01DiagonalPrincipal.deps.json
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\bin\Debug\net5.0\Exec01DiagonalPrincipal.runtimeconfig.json
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\bin\Debug\net5.0\Exec01DiagonalPrincipal.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\bin\Debug\net5.0\Exec01DiagonalPrincipal.dll
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\bin\Debug\net5.0\ref\Exec01DiagonalPrincipal.dll
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\bin\Debug\net5.0\Exec01DiagonalPrincipal.pdb
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\Exec01DiagonalPrincipal.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\Exec01DiagonalPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\Exec01DiagonalPrincipal.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\Exec01DiagonalPrincipal.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\Exec01DiagonalPrincipal.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\Exec01DiagonalPrincipal.dll
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\ref\Exec01DiagonalPrincipal.dll
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\Exec01DiagonalPrincipal.pdb
+C:\c#\ProgramacaoOO\ExecResolvido\Exec01DiagonalPrincipal\Exec01DiagonalPrincipal\obj\Debug\net5.0\Exec01DiagonalPrincipal.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\bin\Debug\net5.0\Exec02DemoStringBuilder.exe
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\bin\Debug\net5.0\Exec02DemoStringBuilder.deps.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\bin\Debug\net5.0\Exec02DemoStringBuilder.runtimeconfig.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\bin\Debug\net5.0\Exec02DemoStringBuilder.runtimeconfig.dev.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\bin\Debug\net5.0\Exec02DemoStringBuilder.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\bin\Debug\net5.0\ref\Exec02DemoStringBuilder.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\bin\Debug\net5.0\Exec02DemoStringBuilder.pdb
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\Exec02DemoStringBuilder.csproj.AssemblyReference.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\Exec02DemoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\Exec02DemoStringBuilder.AssemblyInfoInputs.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\Exec02DemoStringBuilder.AssemblyInfo.cs
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\Exec02DemoStringBuilder.csproj.CoreCompileInputs.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\Exec02DemoStringBuilder.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\ref\Exec02DemoStringBuilder.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\Exec02DemoStringBuilder.pdb
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec02DemoStringBuilder\Exec02DemoStringBuilder\obj\Debug\net5.0\Exec02DemoStringBuilder.genruntimeconfig.cache

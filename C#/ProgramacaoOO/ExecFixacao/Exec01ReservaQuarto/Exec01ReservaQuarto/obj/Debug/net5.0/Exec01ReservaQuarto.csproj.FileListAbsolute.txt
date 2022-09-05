@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\bin\Debug\net5.0\Exec01ReservaQuarto.exe
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\bin\Debug\net5.0\Exec01ReservaQuarto.deps.json
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\bin\Debug\net5.0\Exec01ReservaQuarto.runtimeconfig.json
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\bin\Debug\net5.0\Exec01ReservaQuarto.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\bin\Debug\net5.0\Exec01ReservaQuarto.dll
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\bin\Debug\net5.0\ref\Exec01ReservaQuarto.dll
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\bin\Debug\net5.0\Exec01ReservaQuarto.pdb
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\Exec01ReservaQuarto.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\Exec01ReservaQuarto.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\Exec01ReservaQuarto.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\Exec01ReservaQuarto.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\Exec01ReservaQuarto.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\Exec01ReservaQuarto.dll
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\ref\Exec01ReservaQuarto.dll
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\Exec01ReservaQuarto.pdb
+C:\c#\ProgramacaoOO\ExecFixacao\Exec01ReservaQuarto\Exec01ReservaQuarto\obj\Debug\net5.0\Exec01ReservaQuarto.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\bin\Debug\net5.0\Exec01Retangulo.exe
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\bin\Debug\net5.0\Exec01Retangulo.deps.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\bin\Debug\net5.0\Exec01Retangulo.runtimeconfig.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\bin\Debug\net5.0\Exec01Retangulo.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\bin\Debug\net5.0\Exec01Retangulo.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\bin\Debug\net5.0\ref\Exec01Retangulo.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\bin\Debug\net5.0\Exec01Retangulo.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\Exec01Retangulo.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\Exec01Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\Exec01Retangulo.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\Exec01Retangulo.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\Exec01Retangulo.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\Exec01Retangulo.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\ref\Exec01Retangulo.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\Exec01Retangulo.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec01Retangulo\Exec01Retangulo\obj\Debug\net5.0\Exec01Retangulo.genruntimeconfig.cache

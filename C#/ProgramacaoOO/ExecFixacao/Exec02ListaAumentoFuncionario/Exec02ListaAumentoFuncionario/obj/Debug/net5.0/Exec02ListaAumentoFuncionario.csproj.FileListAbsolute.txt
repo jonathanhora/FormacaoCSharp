@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\bin\Debug\net5.0\Exec02ListaAumentoFuncionario.exe
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\bin\Debug\net5.0\Exec02ListaAumentoFuncionario.deps.json
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\bin\Debug\net5.0\Exec02ListaAumentoFuncionario.runtimeconfig.json
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\bin\Debug\net5.0\Exec02ListaAumentoFuncionario.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\bin\Debug\net5.0\Exec02ListaAumentoFuncionario.dll
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\bin\Debug\net5.0\ref\Exec02ListaAumentoFuncionario.dll
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\bin\Debug\net5.0\Exec02ListaAumentoFuncionario.pdb
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\Exec02ListaAumentoFuncionario.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\Exec02ListaAumentoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\Exec02ListaAumentoFuncionario.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\Exec02ListaAumentoFuncionario.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\Exec02ListaAumentoFuncionario.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\Exec02ListaAumentoFuncionario.dll
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\ref\Exec02ListaAumentoFuncionario.dll
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\Exec02ListaAumentoFuncionario.pdb
+C:\c#\ProgramacaoOO\ExecFixacao\Exec02ListaAumentoFuncionario\Exec02ListaAumentoFuncionario\obj\Debug\net5.0\Exec02ListaAumentoFuncionario.genruntimeconfig.cache

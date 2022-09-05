@@ -1,0 +1,16 @@
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\bin\Debug\net5.0\Exec04TratamentoErro.exe
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\bin\Debug\net5.0\Exec04TratamentoErro.deps.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\bin\Debug\net5.0\Exec04TratamentoErro.runtimeconfig.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\bin\Debug\net5.0\Exec04TratamentoErro.runtimeconfig.dev.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\bin\Debug\net5.0\Exec04TratamentoErro.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\bin\Debug\net5.0\ref\Exec04TratamentoErro.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\bin\Debug\net5.0\Exec04TratamentoErro.pdb
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\Exec04TratamentoErro.csproj.AssemblyReference.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\Exec04TratamentoErro.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\Exec04TratamentoErro.AssemblyInfoInputs.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\Exec04TratamentoErro.AssemblyInfo.cs
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\Exec04TratamentoErro.csproj.CoreCompileInputs.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\Exec04TratamentoErro.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\ref\Exec04TratamentoErro.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\Exec04TratamentoErro.pdb
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec04TratamentoErro\Exec04TratamentoErro\obj\Debug\net5.0\Exec04TratamentoErro.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\Estudos\Alura\01-C#\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.AssemblyReference.cache
+C:\Estudos\Alura\01-C#\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Alura\01-C#\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfoInputs.cache
+C:\Estudos\Alura\01-C#\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.AssemblyInfo.cs
+C:\Estudos\Alura\01-C#\ByteBank\ByteBank\obj\Debug\netcoreapp3.1\ByteBank.csproj.CoreCompileInputs.cache

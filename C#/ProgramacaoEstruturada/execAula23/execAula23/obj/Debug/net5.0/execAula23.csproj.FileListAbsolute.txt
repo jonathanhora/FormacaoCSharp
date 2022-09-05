@@ -1,0 +1,16 @@
+C:\c#\execAula23\execAula23\bin\Debug\net5.0\execAula23.exe
+C:\c#\execAula23\execAula23\bin\Debug\net5.0\execAula23.deps.json
+C:\c#\execAula23\execAula23\bin\Debug\net5.0\execAula23.runtimeconfig.json
+C:\c#\execAula23\execAula23\bin\Debug\net5.0\execAula23.runtimeconfig.dev.json
+C:\c#\execAula23\execAula23\bin\Debug\net5.0\execAula23.dll
+C:\c#\execAula23\execAula23\bin\Debug\net5.0\ref\execAula23.dll
+C:\c#\execAula23\execAula23\bin\Debug\net5.0\execAula23.pdb
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\execAula23.csproj.AssemblyReference.cache
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\execAula23.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\execAula23.AssemblyInfoInputs.cache
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\execAula23.AssemblyInfo.cs
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\execAula23.csproj.CoreCompileInputs.cache
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\execAula23.dll
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\ref\execAula23.dll
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\execAula23.pdb
+C:\c#\execAula23\execAula23\obj\Debug\net5.0\execAula23.genruntimeconfig.cache

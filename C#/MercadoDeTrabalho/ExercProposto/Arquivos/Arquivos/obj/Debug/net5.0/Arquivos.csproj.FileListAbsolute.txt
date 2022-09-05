@@ -1,0 +1,16 @@
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.exe
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.deps.json
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.runtimeconfig.json
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.runtimeconfig.dev.json
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.dll
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\bin\Debug\net5.0\ref\Arquivos.dll
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\bin\Debug\net5.0\Arquivos.pdb
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.csproj.AssemblyReference.cache
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.AssemblyInfoInputs.cache
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.AssemblyInfo.cs
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.dll
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\ref\Arquivos.dll
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.pdb
+C:\c#\MercadoDeTrabalho\ExercProposto\Arquivos\Arquivos\obj\Debug\net5.0\Arquivos.genruntimeconfig.cache

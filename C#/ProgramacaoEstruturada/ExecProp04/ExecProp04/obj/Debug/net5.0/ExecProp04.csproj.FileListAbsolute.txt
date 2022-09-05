@@ -1,0 +1,16 @@
+C:\c#\ExecProp04\ExecProp04\bin\Debug\net5.0\ExecProp04.exe
+C:\c#\ExecProp04\ExecProp04\bin\Debug\net5.0\ExecProp04.deps.json
+C:\c#\ExecProp04\ExecProp04\bin\Debug\net5.0\ExecProp04.runtimeconfig.json
+C:\c#\ExecProp04\ExecProp04\bin\Debug\net5.0\ExecProp04.runtimeconfig.dev.json
+C:\c#\ExecProp04\ExecProp04\bin\Debug\net5.0\ExecProp04.dll
+C:\c#\ExecProp04\ExecProp04\bin\Debug\net5.0\ref\ExecProp04.dll
+C:\c#\ExecProp04\ExecProp04\bin\Debug\net5.0\ExecProp04.pdb
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ExecProp04.csproj.AssemblyReference.cache
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ExecProp04.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ExecProp04.AssemblyInfoInputs.cache
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ExecProp04.AssemblyInfo.cs
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ExecProp04.csproj.CoreCompileInputs.cache
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ExecProp04.dll
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ref\ExecProp04.dll
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ExecProp04.pdb
+C:\c#\ExecProp04\ExecProp04\obj\Debug\net5.0\ExecProp04.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\bin\Debug\net5.0\Exec02.exe
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\bin\Debug\net5.0\Exec02.deps.json
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\bin\Debug\net5.0\Exec02.runtimeconfig.json
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\bin\Debug\net5.0\Exec02.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\bin\Debug\net5.0\Exec02.dll
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\bin\Debug\net5.0\ref\Exec02.dll
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\bin\Debug\net5.0\Exec02.pdb
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\Exec02.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\Exec02.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\Exec02.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\Exec02.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\Exec02.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\Exec02.dll
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\ref\Exec02.dll
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\Exec02.pdb
+C:\c#\ProgramacaoOO\PrimeirosExercicios\Exec02\Exec02\obj\Debug\net5.0\Exec02.genruntimeconfig.cache

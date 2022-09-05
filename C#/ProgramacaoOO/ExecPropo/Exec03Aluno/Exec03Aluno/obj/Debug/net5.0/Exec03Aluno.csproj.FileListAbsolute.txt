@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\bin\Debug\net5.0\Exec03Aluno.exe
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\bin\Debug\net5.0\Exec03Aluno.deps.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\bin\Debug\net5.0\Exec03Aluno.runtimeconfig.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\bin\Debug\net5.0\Exec03Aluno.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\bin\Debug\net5.0\Exec03Aluno.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\bin\Debug\net5.0\ref\Exec03Aluno.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\bin\Debug\net5.0\Exec03Aluno.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\Exec03Aluno.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\Exec03Aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\Exec03Aluno.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\Exec03Aluno.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\Exec03Aluno.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\Exec03Aluno.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\ref\Exec03Aluno.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\Exec03Aluno.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec03Aluno\Exec03Aluno\obj\Debug\net5.0\Exec03Aluno.genruntimeconfig.cache

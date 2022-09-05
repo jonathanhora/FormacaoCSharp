@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/3uXBtpIRd4DAxcJBU092BZx+EGnQ5XWJJ3WqQscaPOaepqwZy5LrQhke9M/NkI6ce3akAK09JVZnXmDNS4Hw==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos\\C#-OrientaçãoAObjetos\\byteBank\\byteBank\\byteBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonathan.hora\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\bin\Debug\net5.0\Exec04ConversorDeMoedas.exe
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\bin\Debug\net5.0\Exec04ConversorDeMoedas.deps.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\bin\Debug\net5.0\Exec04ConversorDeMoedas.runtimeconfig.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\bin\Debug\net5.0\Exec04ConversorDeMoedas.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\bin\Debug\net5.0\Exec04ConversorDeMoedas.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\bin\Debug\net5.0\ref\Exec04ConversorDeMoedas.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\bin\Debug\net5.0\Exec04ConversorDeMoedas.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\Exec04ConversorDeMoedas.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\Exec04ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\Exec04ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\Exec04ConversorDeMoedas.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\Exec04ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\Exec04ConversorDeMoedas.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\ref\Exec04ConversorDeMoedas.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\Exec04ConversorDeMoedas.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec04ConversorDeMoedas\Exec04ConversorDeMoedas\obj\Debug\net5.0\Exec04ConversorDeMoedas.genruntimeconfig.cache

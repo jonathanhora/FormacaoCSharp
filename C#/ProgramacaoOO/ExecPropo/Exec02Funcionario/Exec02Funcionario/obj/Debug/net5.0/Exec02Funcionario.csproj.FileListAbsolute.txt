@@ -1,0 +1,16 @@
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\bin\Debug\net5.0\Exec02Funcionario.exe
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\bin\Debug\net5.0\Exec02Funcionario.deps.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\bin\Debug\net5.0\Exec02Funcionario.runtimeconfig.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\bin\Debug\net5.0\Exec02Funcionario.runtimeconfig.dev.json
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\bin\Debug\net5.0\Exec02Funcionario.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\bin\Debug\net5.0\ref\Exec02Funcionario.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\bin\Debug\net5.0\Exec02Funcionario.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\Exec02Funcionario.csproj.AssemblyReference.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\Exec02Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\Exec02Funcionario.AssemblyInfoInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\Exec02Funcionario.AssemblyInfo.cs
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\Exec02Funcionario.csproj.CoreCompileInputs.cache
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\Exec02Funcionario.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\ref\Exec02Funcionario.dll
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\Exec02Funcionario.pdb
+C:\c#\ProgramacaoOO\ExecPropo\Exec02Funcionario\Exec02Funcionario\obj\Debug\net5.0\Exec02Funcionario.genruntimeconfig.cache

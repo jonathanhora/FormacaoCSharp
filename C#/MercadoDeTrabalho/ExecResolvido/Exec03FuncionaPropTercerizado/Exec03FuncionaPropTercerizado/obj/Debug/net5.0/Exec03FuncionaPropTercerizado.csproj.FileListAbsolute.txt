@@ -1,0 +1,16 @@
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\Exec03FuncionaPropTercerizado.csproj.AssemblyReference.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\Exec03FuncionaPropTercerizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\Exec03FuncionaPropTercerizado.AssemblyInfoInputs.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\Exec03FuncionaPropTercerizado.AssemblyInfo.cs
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\Exec03FuncionaPropTercerizado.csproj.CoreCompileInputs.cache
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\bin\Debug\net5.0\Exec03FuncionaPropTercerizado.exe
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\bin\Debug\net5.0\Exec03FuncionaPropTercerizado.deps.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\bin\Debug\net5.0\Exec03FuncionaPropTercerizado.runtimeconfig.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\bin\Debug\net5.0\Exec03FuncionaPropTercerizado.runtimeconfig.dev.json
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\bin\Debug\net5.0\Exec03FuncionaPropTercerizado.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\bin\Debug\net5.0\ref\Exec03FuncionaPropTercerizado.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\bin\Debug\net5.0\Exec03FuncionaPropTercerizado.pdb
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\Exec03FuncionaPropTercerizado.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\ref\Exec03FuncionaPropTercerizado.dll
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\Exec03FuncionaPropTercerizado.pdb
+C:\c#\MercadoDeTrabalho\ExecResolvido\Exec03FuncionaPropTercerizado\Exec03FuncionaPropTercerizado\obj\Debug\net5.0\Exec03FuncionaPropTercerizado.genruntimeconfig.cache

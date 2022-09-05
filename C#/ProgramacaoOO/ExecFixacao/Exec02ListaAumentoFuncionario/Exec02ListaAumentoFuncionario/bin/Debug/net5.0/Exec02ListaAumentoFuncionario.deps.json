@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exec02ListaAumentoFuncionario/1.0.0": {
+        "runtime": {
+          "Exec02ListaAumentoFuncionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exec02ListaAumentoFuncionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

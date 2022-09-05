@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exec04ConversorDeMoedas/1.0.0": {
+        "runtime": {
+          "Exec04ConversorDeMoedas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exec04ConversorDeMoedas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

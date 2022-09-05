@@ -1,0 +1,16 @@
+C:\c#\ExecProp02\ExecProp02\bin\Debug\net5.0\ExecProp02.exe
+C:\c#\ExecProp02\ExecProp02\bin\Debug\net5.0\ExecProp02.deps.json
+C:\c#\ExecProp02\ExecProp02\bin\Debug\net5.0\ExecProp02.runtimeconfig.json
+C:\c#\ExecProp02\ExecProp02\bin\Debug\net5.0\ExecProp02.runtimeconfig.dev.json
+C:\c#\ExecProp02\ExecProp02\bin\Debug\net5.0\ExecProp02.dll
+C:\c#\ExecProp02\ExecProp02\bin\Debug\net5.0\ref\ExecProp02.dll
+C:\c#\ExecProp02\ExecProp02\bin\Debug\net5.0\ExecProp02.pdb
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ExecProp02.csproj.AssemblyReference.cache
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ExecProp02.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ExecProp02.AssemblyInfoInputs.cache
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ExecProp02.AssemblyInfo.cs
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ExecProp02.csproj.CoreCompileInputs.cache
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ExecProp02.dll
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ref\ExecProp02.dll
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ExecProp02.pdb
+C:\c#\ExecProp02\ExecProp02\obj\Debug\net5.0\ExecProp02.genruntimeconfig.cache
